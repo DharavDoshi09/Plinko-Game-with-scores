@@ -1,1 +1,1 @@
-# Plinko-Game-with-scores
+# Box Class
